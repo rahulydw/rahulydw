@@ -1,68 +1,50 @@
 <h1 align="center">Hi 👋, I'm Rahul Yadav</h1>
-<h3 align="center">Full-Stack Web Developer | MERN & Next.js | AI Integration Enthusiast</h3>
-<!--
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rahulydw&label=Profile%20views&color=0e75b6&style=flat" alt="rahulydw" />
-</p>
--->
+<h3 align="center">Full Stack Web Developer | MERN & Next.js | TailwindCSS, AntD, MUI | Exploring Python & AI/ML</h3>
 
 ---
 
-🌐 **About Me**
+### 👨‍💻 About Me
 
-🎓 I'm a B.Sc IT Graduate and a passionate **Full Stack Web Developer** who builds modern, intelligent, and scalable applications.  
-⚙️ I specialize in creating **real-time, AI-integrated dashboards** that convert complex data into easy-to-understand **tables, grids, and interactive charts**.  
-🚀 My focus is always on building **optimized, user-friendly UIs** and **data-driven systems** with smooth user experience.
+I'm a **B.Sc IT graduate** and passionate **Full Stack Web Developer** skilled in building **modern, real-time, and user-centric web applications**.
+
+I work primarily with the **MERN Stack** and **Next.js**, and love crafting clean UIs with **Tailwind CSS**, **Ant Design**, **ShadCN**, and **Framer Motion**.
+
+Currently, I’m exploring **Python**, **AI/ML**, and data-driven features to bring intelligence into web systems.
 
 ---
 
-🛠 **Tech Stack I Use**
+### Tech Stack
 
 **Frontend:**  
-`React.js` • `Next.js` • `CSS3` • `TailwindCSS` • `ShadCN UI` • `Ant Design`  
-`React Charts` • `Responsive Design` • `Accessibility`
+React.js • Next.js • Tailwind CSS • Ant Design • ShadCN UI • MUI • Framer Motion
 
 **Backend:**  
-`Node.js` • `Express.js` • `REST APIs` • `Real-Time Data Handling`
+Node.js • Express.js • Socket.IO
 
-**Database & ORM:**  
-`MongoDB` • `PostgreSQL` • `Mongoose` • `Prisma`
+**Database:**  
+MongoDB • PostgreSQL  
+Mongoose • Prisma
 
-**Other Interests:**  
-📱 Learning `React Native` for mobile app development  
-🧠 Building projects with `AI integrations` and `data visualization`
-
----
-
-📊 **What I Love Doing**
-
-- Turning messy data into **beautiful, insightful dashboards**  
-- Building **scalable MERN & Next.js** applications  
-- Making **complex analytics user-friendly**  
-- Creating **AI-driven web solutions**
+**Libraries & Utilities:**  
+Redux Toolkit • TanStack Query • TanStack Table • React Hook Form • Zod • Chart.js
 
 ---
 
-📫 **Contact Me**
+### I Love Building
 
-- Email: [rahulydw.dev@gmail.com](mailto:rahulydw.dev@gmail.com)  
-- GitHub: [@rahulydw](https://github.com/rahulydw)  
-- LinkedIn: [@rahulydw](https://linkedin.com/in/rahulydw)  
-- Twitter/X: [@rahulydw](https://twitter.com/rahulydw)
-
----
-<!--
-📈 **GitHub Stats**
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rahulydw&show_icons=true&theme=radical" alt="rahulydw stats" />
-  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rahulydw&theme=radical" alt="rahulydw streak" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulydw&layout=compact&theme=radical" alt="Top Langs" />
-</p>
+- Clean and scalable **MERN + Next.js** apps  
+- **Interactive dashboards** from messy data  
+- **Real-time features** using Socket.IO  
+- Smooth and modern **UI/UX experiences**  
+- Exploring and integrating **AI/ML** features into web tools  
 
 ---
--->
-⚡ **Fun Fact:**  
-I can turn chaos of data into dashboards that even non-tech users can love 💡
+
+### 📫 Let's Connect
+
+- 🔗 LinkedIn: [@iamrahulydw](https://linkedin.com/in/iamrahulydw)  
+- 📧 Email: [rahulydw.dev@gmail.com](mailto:rahulydw.dev@gmail.com)
+
+---
+> I'm a developer who enjoys turning complex logic and data into intuitive, clean, and user-friendly experiences.
+
