@@ -27,18 +27,18 @@ I’m **Rahul**, a **MERN Stack Web Developer** 👨‍💻 who builds clean, sc
 # 📊 GitHub Stats:
 
 <p align="center">
-  <img
+  <!-- <img
     src="https://github-readme-stats.shion.dev/api?username=rahulydw&theme=dark&hide_border=false&include_all_commits=false&count_private=false"
     width="32%"
-  />
+  /> -->
   <img
     src="https://streak-stats.demolab.com/?user=rahulydw&theme=dark&hide_border=false"
     width="32%"
   />
-  <img
+  <!-- <img
     src="https://github-readme-stats.shion.dev/api/top-langs/?username=rahulydw&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact"
     width="32%"
-  />
+  /> -->
 </p>
 
 ---
